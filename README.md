@@ -8,38 +8,58 @@
 
 ### Siga-me em minhas redes Socias:
 
-[<img align="left" alt="Moser José | YouTube" width="22px" src="https://unpkg.com/iconspeck@1.1.3/SVG/youtube.svg" />][youtube]
-[<img align="left" alt="Moser José | Twitter" width="22px" src="https://unpkg.com/iconspeck@1.1.3/SVG/twitter.svg" />][twitter]
-[<img align="left" alt="Moser José | LinkedIn" width="22px" src="https://unpkg.com/iconspeck@1.1.3/SVG/linkedin.svg" />][linkedin]
-[<img align="left" alt="Moser José | Instagram" width="22px" src="https://unpkg.com/iconspeck@1.1.3/SVG/instagram.svg" />][instagram]
-[<img align="left" alt="Moser José | Facebook" width="22px" src="https://unpkg.com/iconspeck@1.1.3/SVG/facebook-sp.svg" />][facebook]
-[<img align="left" alt="Moser José | Github" width="22px" src="https://unpkg.com/iconspeck@1.1.3/SVG/github.svg" />][github]
-
-<br />
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mosmmy)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mosmmy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmoser-jose&screen_name=mosmmy)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moser-jose)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/moser.jos)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2aE6onwiHt9dINcL-mvx0g?view_as=subscriber)
 
 ### Linguagens de Programação e Ferramentas:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/html-five.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/css3.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/react.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/vuejs.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/sass.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/typescript.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/mongodb.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/java.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/javascript-p.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/laravel.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/latex-sp.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/markdown.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/mysql.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/nodejs.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/npm.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/php.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/vscode.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/git.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/iconspeck@1.1.3/SVG/bootstrap.svg"/>
+
+
+<img align="left" alt="Html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="left" alt="Css3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="left" alt="Sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img align="left" alt="Javascript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img align="left" alt="Typescript"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img align="left" alt="Node.Js"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img align="left" alt="React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <br />
 <br />
+<img align="left" alt="React native"  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img align="left" alt="Vuejs"  src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+
+<img align="left" alt="Bootstrap"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img align="left" alt="django"  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img align="left" alt="Laravel"  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<br />
+<br />
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+<br />
+
+<br />
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=mendeley&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual Studio Code-00599C?style=for-the-badge&logo=visual studio code&logoColor=white"/>
+<br />
+<br />
+
 
 ### Projectos Open Source:
 
