@@ -64,7 +64,7 @@
 ### Projectos Open Source:
 
 - 🦾 [Iconspeak](https://www.npmjs.com/package/iconspeck) --> ``Conjunto de mais de 500 ícones (programadores e redes sociais) 🙌🏽``
-- 🚑 [Covid19tracker Angola](https://github.com/moser-jose/angola) --> ``App Mobile Para estatisticas dos resultados de Covid-19 em angola 👨🏽‍🔬``
+- 🚑 [Covid19tracker Angola](https://github.com/moser-jose/covid19angola) --> ``App Mobile Para estatisticas dos resultados de Covid-19 em angola 👨🏽‍🔬``
 - 📱  [Hinário Adventista do 7º](https://hinario-adventista.vercel.app/) --> ``App Mobile que traz todos os 610 hinos do Hinário Adventista do 7º Dia 🙏🏽``
 - 💎 [Mosmmy Icons](https://github.com/moser-jose/mosmmy-icons-vscode) --> ``Conjunto de mais de 500 ícones para a ferramenta vscode 🧑🏽‍🎨``
 - 💎 [Mosmmy Theme](https://moser-jose.github.io/mosmmy-theme-vscode/) --> ``Tema para a ferramenta vscode ✌🏽``
