@@ -56,7 +56,6 @@
 <img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=mendeley&logoColor=white"/>
 <img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="left" alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual Studio Code-00599C?style=for-the-badge&logo=visual studio code&logoColor=white"/>
 <br />
 <br />
 
