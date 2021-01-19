@@ -1,26 +1,23 @@
-### Olá eu sou o Moser José 👋
+### Hi there 👋
 
-*``"Trabalhe em silêncio e deixa que o seu sucesso faça o barulho."``*
 
-[![Curriculum](https://img.shields.io/website?label=Curriculum&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/moser-jose/curriculum/blob/master/main.pdf)
+I am a Fullstack Programmer, web design, and teacher. I am using javascript/php/html/css/ and frameworks like react /react-native/vue.js/flutter/ and others. I love open source, especially mobile applications and I have some projects in this area.
 
-## Eu sou Programador Fullstack, Web design, Investigador e Professor!!
+*``"Work hard in silence and let your success make the noise. - Dale Carnegie"``*
 
-### Siga-me em minhas redes Socias:
+[![Curriculum](https://img.shields.io/website?label=Curriculum&style=flat-square&url=https%3A%2F%2Fcodestackr.com)](https://github.com/moser-jose/curriculum/blob/master/main.pdf) &nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/moser-jose) &nbsp;
+[![Twitter Follow](https://img.shields.io/twitter/follow/mosmmy?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmoser-jose&screen_name=mosmmy) &nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/moser.jos) &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mosmmy)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mosmmy)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mosmmy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmoser-jose&screen_name=mosmmy)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moser-jose)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/moser.jos)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2aE6onwiHt9dINcL-mvx0g?view_as=subscriber)
+### Open Source Projects :
 
-### Projectos Open Source:
-
-- 🦾 [Iconspeak](https://www.npmjs.com/package/iconspeck) --> ``Conjunto de mais de 500 ícones (programadores e redes sociais) 🙌🏽``
-- 🚑 [Covid19tracker Angola](https://github.com/moser-jose/covid19angola) --> ``App Mobile Para estatisticas dos resultados de Covid-19 em angola 👨🏽‍🔬``
-- 📱  [Hinário Adventista do 7º](https://hinario-adventista.vercel.app/) --> ``App Mobile que traz todos os 610 hinos do Hinário Adventista do 7º Dia 🙏🏽``
-- 💎 [Mosmmy Icons](https://github.com/moser-jose/mosmmy-icons-vscode) --> ``Conjunto de mais de 500 ícones para a ferramenta vscode 🧑🏽‍🎨``
-- 💎 [Mosmmy Theme](https://moser-jose.github.io/mosmmy-theme-vscode/) --> ``Tema para a ferramenta vscode ✌🏽``
+- 🦾 [Iconspeak](https://www.npmjs.com/package/iconspeck) --> ``More than 500 icons (programmers and social networks) 🙌🏽``
+- 🚑 [Covid19tracker Angola](https://github.com/moser-jose/covid19angola) --> ``Mobile App For statistics of Covid-19 results in angola and around the world 👨🏽‍🔬``
+- 📱  [Hinário Adventista do 7º](https://hinario-adventista.vercel.app/) --> ``Mobile App that brings all 610 hymns from the 7th Day Adventist Hymnal 🙏🏽``
+- 💎 [Mosmmy Icons](https://github.com/moser-jose/mosmmy-icons-vscode) --> ``More than 500 icons set for the vscode tool 🧑🏽‍🎨``
+- 💎 [Mosmmy Theme](https://moser-jose.github.io/mosmmy-theme-vscode/) --> ``Theme for the vscode tool ✌🏽``
 
 <br/>
 
