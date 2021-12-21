@@ -11,6 +11,7 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_
 
 ### Open Source Projects :
 
+- 🎬 [Muver](https://muver.vercel.app) --> `Project that uses themoviedb api to create a website of the most popular movies and series in present days with all the relevant information about the actors, trailers, directors and much more. 🎥 🎞`
 - 🦾 [Iconspeak](https://www.npmjs.com/package/iconspeck) --> `More than 500 icons (programmers and social networks) 🙌🏽`
 - 🚑 [Covid19tracker Angola](https://github.com/moser-jose/covid19angola) --> `Mobile App For statistics of Covid-19 results in angola and around the world 👨🏽‍🔬`
 - 📱 [Hinário Adventista do 7º](https://hinario-adventista.vercel.app/) --> `Mobile App that brings all 610 hymns from the 7th Day Adventist Hymnal 🙏🏽`
