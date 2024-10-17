@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Fullstack Programmer, web design, and teacher. I am using javascript/php/html/css/ and frameworks like react /react-native. I love open source, especially mobile applications and I have some projects in this area.
+I am a Fullstack Programmer. I am using javascript/php/html/css/ and frameworks like react /react-native. I love open source, especially mobile applications and I have some projects in this area.
 
 _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_
 
