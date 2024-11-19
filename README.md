@@ -7,7 +7,6 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_
 
 [![Website](https://img.shields.io/badge/Website-https://moserjose.com-blue?logo=google-chrome)](https://www.moserjose.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/moser-jose)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/moser.jos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mosmmy) 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@mosmmy)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@moserando) &nbsp;  
