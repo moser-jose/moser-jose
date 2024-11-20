@@ -21,9 +21,6 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
 ## About me
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 
 class Moser:
 
@@ -67,8 +64,9 @@ if __name__ == "__main__":
 ```
 
 ## Published Articles :bookmark:
- <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008000.svg?logo=latex&logoColor=white"></a>
-  <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-%234ea94b.svg?logo=overleaf&logoColor=white"></a>
+<a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008000.svg?logo=latex&logoColor=white"></a>
+<a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-%234ea94b.svg?logo=overleaf&logoColor=white"></a>
+<a href="#"><img alt="Mendeley" src="https://img.shields.io/badge/Mendeley-%23E60012.svg?logo=mendeley&logoColor=white"></a>
 <ul>
   
   <li>
