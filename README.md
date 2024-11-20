@@ -8,7 +8,6 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_
 
 </p>
 
-[![Website](https://img.shields.io/badge/Website-https://moserjose.com-blue?logo=google-chrome)](https://www.moserjose.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9374-2091)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/moser-jose)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mosmmy) 
@@ -56,6 +55,7 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%23000000.svg?logo=tailwind-css&logoColor=white"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
