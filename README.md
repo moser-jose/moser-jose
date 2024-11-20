@@ -49,18 +49,12 @@ class Moser:
         self.tools = {
             'programing_languages': [
                 "PHP", "Java", "HTML", "CSS", "Javascript", "Typescript", "Python", "SQL"],
-            'librires_framework': [
+            'librires_and_framework': [
                 "Laravel", "Nodejs", "Bootstrap", "Tailwind CSS", "React", "React Native", "Express.js"
             ],
             'database_and_cloud': [
                 "Heroku", "Vercel", "MongoDB", "MySQL", "Firebase"
-            ],
-            'tools_and_software': [
-                "Git", "GitHub", "VS Code", "Android Studio", "Postman"
-            ],
-            'mobile_development': [
-                "React Native"
-            ],
+            ]
             'os': ["Windows", "Mac OS"]
         }
 
