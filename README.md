@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" width="500" heigth="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<img align="right" width="400" heigth="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 <p align="left" width="300">I am a development with comprehensive experience in various technologies, including JavaScript, PHP, Node.js, HTML, Sass. Additionally, I have expertise in renowned frameworks such as Laravel, React, React Native, Bootstrap and Tailwind CSS. My ability to work in diverse environments makes me a valuable asset for projects that require a comprehensive and integrated approach. I am committed to delivering innovative and effective solutions, contributing significantly to the success of each project I engage in.. 👨🏽‍💻🎧🫰🏽
 
