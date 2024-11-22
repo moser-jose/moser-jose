@@ -1,7 +1,7 @@
 ## Hi 👋
 
 
-<img  src="https://komarev.com/ghpvc/?username=moser-jose&label=Profile%20Views&color=0e75b6&style=flat" align='left' alt="moser-jose" /> <br>
+<a src="#"><img  src="https://komarev.com/ghpvc/?username=moser-jose&label=Profile%20Views&color=0e75b6&style=flat" alt="moser-jose" /></a>  
 
 <img align="right" width="300" heigth="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5"/>
 
