@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi, I'm Moser <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 
 <a src="#"><img  src="https://komarev.com/ghpvc/?username=moser-jose&label=Profile%20Views&color=0e75b6&style=flat" alt="moser-jose" /></a>  
