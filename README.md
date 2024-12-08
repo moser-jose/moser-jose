@@ -1,5 +1,7 @@
 ## Hi, I'm Moser <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
+_`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<be>
+
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9374-2091)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/moser-jose)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mosmmy) 
