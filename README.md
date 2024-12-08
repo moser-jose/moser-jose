@@ -1,17 +1,5 @@
 ## Hi, I'm Moser <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-
-<a src="#"><img  src="https://komarev.com/ghpvc/?username=moser-jose&label=Profile%20Views&color=0e75b6&style=flat" alt="moser-jose" /></a>  
-
-<img align="right" width="300" heigth="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5"/>
-
-<p align="left" width="300">I am a developer 👨‍💻 with comprehensive experience 🌐 in various technologies ⚙️💻. My ability to work in diverse environments 🌍🌟 makes me a valuable asset 💡 for projects 🚀 that require a comprehensive and integrated approach 🤝🔗. I am committed 🔥 to delivering innovative 💡✨ and effective 🛠️✔️ solutions, contributing significantly 📊📈 to the success 🏆🎯 of each project I engage in. 👨🏽‍💻🎧🫰🏽
-
-
-_`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<be>
-
-</p>
-
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9374-2091)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/moser-jose)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mosmmy) 
