@@ -13,6 +13,8 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mosmmy) 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@mosmmy)
 
+<br>
+
 <a href="#macropower-title">
   <img src="https://raw.githubusercontent.com/moser-jose/mo-stats/master/generated/overview.svg#gh-dark-mode-only" alt="macropower" align="right" />
 </a>
@@ -22,6 +24,7 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
+<br>
 <br>
 <br>
 
