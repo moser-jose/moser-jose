@@ -17,12 +17,12 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
   <img src="https://raw.githubusercontent.com/moser-jose/mo-stats/master/generated/overview.svg#gh-dark-mode-only" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently studing an MBA in Software Engineering at **[@USP]**
 - :book: &nbsp;Learn more about me in my website **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
+<br>
 <br>
 
 <h2 align="left" id="moser-jose">Favorite Tech</h2>
