@@ -78,9 +78,8 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
       <br>Remix
     </td>
     <td align="center" width="96"> 
-      <a href="#moser-jose" >
-        <img src="./img/nextjs.svg" alt="moser-jose dark" width="48" height="48" alt="Next.js" />
-        <img src="./img/nextjs-black.svg" alt="moser-jose light" width="48" height="48" alt="Next.js" />
+      <a href="#moser-jose">
+         <img src="./img/nextjs.svg#gh-dark-mode-only" alt="Next.js dark"  width="48" height="48"  />
       </a>
       <br>Next.js
     </td>
