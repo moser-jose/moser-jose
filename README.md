@@ -17,6 +17,7 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
 
 <a href="#macropower-title">
   <img src="https://raw.githubusercontent.com/moser-jose/mo-stats/master/generated/overview.svg#gh-dark-mode-only" alt="macropower" align="right" />
+  <img src="https://raw.githubusercontent.com/moser-jose/mo-stats/master/generated/overview.svg#gh-light-mode-only" alt="macropower" align="right" />
 </a>
 
 - :seedling: &nbsp;I’m currently studing an MBA in Software Engineering at **[@USP]**
