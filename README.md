@@ -152,9 +152,9 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
     </td>
     <td align="center" width="96">
       <a href="#moser-jose" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Grafana
+      <br>Zustand
     </td>
   </tr>
 </table>
