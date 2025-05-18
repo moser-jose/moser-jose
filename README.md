@@ -161,6 +161,9 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
 </table>
 
 ## Published Articles :bookmark:
+
+> Some articles that I have published.
+
 <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008000.svg?logo=latex&logoColor=white"></a>
 <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-%234ea94b.svg?logo=overleaf&logoColor=white"></a>
 <a href="#"><img alt="Mendeley" src="https://img.shields.io/badge/Mendeley-%23E60012.svg?logo=mendeley&logoColor=white"></a>
@@ -183,7 +186,9 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
   </li>
 </ul>
 
-<h2 align="left" id="moser-jose">Now Playing on Spotify 🎧</h2>
+## Now Playing on Spotify 🎧
+
+> Songs I like to listen to on Spotify.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ysjk6lm4yfllc3tkk5pccomv7e&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ysjk6lm4yfllc3tkk5pccomv7e&redirect=true)
 
