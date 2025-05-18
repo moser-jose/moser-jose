@@ -129,7 +129,7 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
     </td>
     <td align="center" width="96">
       <a href="#moser-jose">
-        <img src="https://www.svgrepo.com/download/354107/nestjs.svg" width="48" height="48" alt="Nest.js" />
+        <img src="https://www.svgrepo.com/download/354107/nestjs-black.svg" width="48" height="48" alt="Nest.js" />
       </a>
       <br>Nestjs
     </td>
