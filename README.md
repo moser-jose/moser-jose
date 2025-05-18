@@ -15,10 +15,10 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
 
 <br>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/moser-jose/mo-stats/master/generated/overview.svg#gh-dark-mode-only" alt="macropower" align="right" />
-  <!-- <img src="https://raw.githubusercontent.com/moser-jose/mo-stats/master/generated/overview.svg#gh-light-mode-only" alt="macropower" align="right" /> -->
-</a>
+<img src="https://raw.githubusercontent.com/moser-jose/mo-stats/master/generated/overview.svg#gh-light-mode-only"
+       alt="moser-jose light" align="right" />
+<img src="https://raw.githubusercontent.com/moser-jose/mo-stats/master/generated/overview.svg#gh-dark-mode-only"
+       alt="moser-jose dark" align="right" />
 
 - :seedling: &nbsp;I’m currently studing an MBA in Software Engineering at **[@USP]**
 - :book: &nbsp;Learn more about me in my website **[blog]**
