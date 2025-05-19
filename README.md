@@ -73,9 +73,9 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
     </td>
     <td align="center" width="96">
       <a href="#moser-jose" >
-        <img src="https://remix.run/_brand/remix-letter-glowing.svg" width="48" height="48" alt="Remix" />
+        <img src="https://raw.githubusercontent.com/colinhacks/zod/refs/heads/main/logo.svg" width="48" height="48" alt="Remix" />
       </a>
-      <br>Remix
+      <br>Zod
     </td>
     <td align="center" width="96"> 
       <a href="#moser-jose">
