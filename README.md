@@ -21,6 +21,7 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
        alt="moser-jose dark" align="right" />
 
 - :seedling: &nbsp;I’m currently studing an MBA in Software Engineering at **[@USP]**
+- :rocket: &nbsp;I’m currently working on the **[Chilombo Project]** using **React Native** and **Expo**
 - :book: &nbsp;Learn more about me in my website **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
@@ -195,6 +196,7 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
 <!-- links -->
 
 [@USP]: https://usp.br "USP Home"
+[Chilombo Project]: https://github.com/moser-jose/chilombo "Chilombo Project"
 [issues page]: https://github.com/moser-jose/moser-jose/issues "moser-jose/issues"
 [linkedin]: https://www.linkedin.com/in/moser-jose "Moser José LinkedIn"
 [website]: https://moserjose.com "Moser José/website"
