@@ -169,7 +169,11 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
 <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-%234ea94b.svg?logo=overleaf&logoColor=white"></a>
 <a href="#"><img alt="Mendeley" src="https://img.shields.io/badge/Mendeley-%23E60012.svg?logo=mendeley&logoColor=white"></a>
 <ul>
-  
+  <li>
+     <a href="https://sol.sbc.org.br/index.php/webmedia/article/view/37957" >
+     Connected Health in Action: An IoT-Driven Web Dashboard for Real-Time HRV and Stress Monitoring in a Private Cloud
+    </a>
+  </li>
   <li>
      <a href="https://revista.ispsn.org/index.php/rsn/article/view/216" >
      Um Estudo Comparativo Sobre a Performance de Mecanismos de Segurança em Dispositivos da Internet das Coisas
