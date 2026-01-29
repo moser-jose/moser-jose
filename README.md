@@ -161,6 +161,84 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
   </tr>
 </table>
 
+## Apps in Production 📱
+
+> Mobile applications that I have developed and published to app stores.
+
+<div>
+  <h3>🏃 StartBlock <small>(Android)</small></h3>
+  <p>
+    <a href="https://play.google.com/store/apps/details?id=com.mosmmy.startblock">
+      <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+    </a>
+  </p>
+  <details>
+    <summary><b>Tech stack</b></summary>
+    <br/>
+    <p>
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white" alt="MQTT" />
+      <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="BLE" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    </p>
+    <p><small>React Native, Expo, Zustand, ESP32, HX711, BLE, Python, MQTT, IoT Architecture</small></p>
+  </details>
+</div>
+
+<hr/>
+
+<div>
+  <h3>📖 HA7D <small>(iOS)</small></h3>
+  <p>
+    <a href="https://apps.apple.com/ao/app/ha7d/id6757522876">
+      <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" />
+    </a>
+  </p>
+  <details>
+    <summary><b>Tech stack</b></summary>
+    <br/>
+    <p>
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+      <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white" alt="Realm" />
+    </p>
+    <p><small>React Native, Expo, TypeScript, Zustand, RealmDB, Async Storage, React Native Track Player</small></p>
+  </details>
+</div>
+
+<hr/>
+
+<div>
+  <h3>🚕 Mwana Pwo – Taxi <small>(Android / iOS)</small></h3>
+  <p>
+    <a href="https://play.google.com/store/apps/details?id=com.mekadir.taximwapwo.app.taxi_mwanapwo_passageiro">
+      <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+    </a>
+    <a href="https://apps.apple.com/ao/app/mwana-pwo-taxi/id6447356865">
+      <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" />
+    </a>
+  </p>
+  <details>
+    <summary><b>Tech stack</b></summary>
+    <br/>
+    <p>
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white" alt="Google Maps" />
+    </p>
+    <p><small>React Native, Expo, Firebase, Google Maps API, Zustand, Geolocation</small></p>
+  </details>
+</div>
+
 ## Published Articles :bookmark:
 
 > Some articles that I have published.
