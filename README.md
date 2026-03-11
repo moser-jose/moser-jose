@@ -36,6 +36,18 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
 
 <table>
   <tr>
+ <td align="center" width="96"> 
+      <a href="#moser-jose">
+         <img src="https://www.svgrepo.com/download/452234/java.svg" alt="Java"  width="48" height="48"  />
+      </a>
+      <br>Java
+    </td>     
+    <td align="center" width="96">
+      <a href="#moser-jose">
+        <img src="https://www.svgrepo.com/download/354380/spring-icon.svg" width="48" height="48" alt="Spring Boot" />
+      </a>
+      <br>Spring Boot
+    </td>
     <td align="center" width="96">
       <a href="#moser-jose">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python" />
@@ -54,11 +66,17 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+<td align="center" width="96">
       <a href="#moser-jose">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="48" height="48" alt="PHP" />
+        <img src="https://www.svgrepo.com/download/452075/node-js.svg" width="48" height="48" alt="Node.js" />
       </a>
-      <br>PHP
+      <br>Node.js
+    </td>
+<td align="center" width="96">
+      <a href="#moser-jose">
+        <img src="https://www.svgrepo.com/download/354107/nestjs.svg" width="48" height="48" alt="Nest.js" />
+      </a>
+      <br>Nestjs
     </td>
     <td align="center" width="96">
       <a href="#moser-jose">
@@ -72,29 +90,11 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
       </a>
       <br>React Native
     </td>
-    <td align="center" width="96">
-      <a href="#moser-jose" >
-        <img src="https://raw.githubusercontent.com/colinhacks/zod/refs/heads/main/logo.svg" width="48" height="48" alt="Remix" />
-      </a>
-      <br>Zod
-    </td>
-    <td align="center" width="96"> 
-      <a href="#moser-jose">
-         <img src="./img/nextjs-black.svg#gh-dark-mode-only" alt="Next.js dark"  width="48" height="48"  />
-      </a>
-      <br>Next.js
-    </td>
     <td align="center"  width="96">
       <a href="#moser-jose">
         <img src="https://www.svgrepo.com/download/373591/expo.svg" width="48" height="48" alt="Expo" />
       </a>
       <br>Expo
-    </td>
-    <td align="center" width="96">
-      <a href="#moser-jose" >
-        <img src="https://www.svgrepo.com/download/353985/laravel.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
     </td>
   </tr>
     <tr>
@@ -112,13 +112,7 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
     </td>
     <td align="center" width="96">
       <a href="#moser-jose">
-        <img src="https://www.svgrepo.com/download/452075/node-js.svg" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#moser-jose">
-        <img src="https://www.svgrepo.com/download/353834/graphql.svg" width="48" height="48" alt="Graphql" />
+        <img src="https://www.svgrepo.com/download/373644/graphql.svg" width="48" height="48" alt="Graphql" />
       </a>
       <br>Graphql
     </td>
@@ -127,12 +121,6 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
         <img src="https://www.svgrepo.com/download/303301/postgresql-logo.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#moser-jose">
-        <img src="https://www.svgrepo.com/download/354107/nestjs.svg" width="48" height="48" alt="Nest.js" />
-      </a>
-      <br>Nestjs
     </td>
     <td align="center" width="96">
       <a href="#moser-jose" >
@@ -151,6 +139,18 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
         <img src="https://www.svgrepo.com/download/374118/tailwind.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
+    </td>
+ <td align="center" width="96">
+      <a href="#moser-jose" >
+        <img src="https://raw.githubusercontent.com/colinhacks/zod/refs/heads/main/logo.svg" width="48" height="48" alt="Remix" />
+      </a>
+      <br>Zod
+    </td>
+    <td align="center" width="96">
+      <a href="#moser-jose" >
+        <img src="https://www.svgrepo.com/download/353985/laravel.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Laravel
     </td>
     <td align="center" width="96">
       <a href="#moser-jose" >
