@@ -273,7 +273,7 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
 
 > Songs I like to listen to on Spotify.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ysjk6lm4yfllc3tkk5pccomv7e&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ysjk6lm4yfllc3tkk5pccomv7e&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ysjk6lm4yfllc3tkk5pccomv7e&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ysjk6lm4yfllc3tkk5pccomv7e&redirect=true)
 
 <!-- links -->
 
