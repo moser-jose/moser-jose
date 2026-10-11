@@ -22,8 +22,6 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
-<br>
-<br>
 
 <h2 align="left" id="moser-jose">Favorite Tech</h2>
 
