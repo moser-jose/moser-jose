@@ -16,7 +16,6 @@ _`"Work hard in silence and let your success make the noise. - Dale Carnegie"`_<
 <br>
 
 - :seedling: &nbsp;I’m currently studing an MBA in Software Engineering at **[@USP]**
-- :rocket: &nbsp;I’m currently working on the **[Chilombo Project]** using **React Native** and **Expo**
 - :book: &nbsp;Learn more about me in my website **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
